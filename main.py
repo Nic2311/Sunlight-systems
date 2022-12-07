@@ -10,7 +10,7 @@ import json
 
 bot = commands.Bot(intents=discord.Intents.all() , command_prefix= "!" , description='The Best Bot For the Best User!')
 
-CONFIG_LOG = 1048969300767158272
+CONFIG_LOG = 
 
 PRESENCES = [ ## Words for the constantly changing presence
     "Playing games",
