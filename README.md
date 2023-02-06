@@ -37,4 +37,4 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
   
  # Automatic Moderation
   
-This bot uses the on_message event to trigger actions when a message is sent in a server. If the message contains any of the words in the banned_words list, the message is deleted and the user is sent a warning message via dm.
+This bot uses the on_message event to trigger actions when a message is sent in a server. If the message contains any of the words in the banned_words list, the message is deleted and the user is sent a warning message via dm which is considered by the AI code.
